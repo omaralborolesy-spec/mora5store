@@ -1,0 +1,8 @@
+{
+  "short_name": "MORA STORE",
+  "name": "MORA STORE - Official App",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#162447",
+  "theme_color": "#1f4068"
+}
